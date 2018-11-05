@@ -1,5 +1,5 @@
 # Machine Learning Engineer Nanodegree
-## Project 2: Predicting Boston Housing Prices
+## Project: Predicting Boston Housing Prices
 
 
 ### Project Description
